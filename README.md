@@ -2,7 +2,7 @@
 
 See `spin_demo.R` transform into `spin_demo.Rmd`. No YAML required. :wink:
 
-![](knitr-spin-demo.mov.mov)
+![](knitr-spin-demo.mov)
 
 For much more on `knitr::spin()` see:
 
